@@ -1,0 +1,9 @@
+{
+  "channel": "alpha",
+  "version": "0.2.0-alpha.1",
+  "platform": "win32-x64",
+  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.1/Superman-Setup-0.2.0-alpha.1-win-x64.exe",
+  "sha256": "507cd133fad37f2f108bb815dba21858b3b89f631971bcff7417c63a644555ad",
+  "size": 243514824,
+  "notes": "First creator alpha."
+}

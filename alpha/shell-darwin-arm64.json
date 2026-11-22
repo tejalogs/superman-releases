@@ -1,0 +1,9 @@
+{
+  "channel": "alpha",
+  "version": "0.2.0-alpha.1",
+  "platform": "darwin-arm64",
+  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.1/Superman-0.2.0-alpha.1-arm64-mac.zip",
+  "sha256": "3fe08540f8143929c7212a2f60d1652dba8cd22edc1476aca1702202d234b2b5",
+  "size": 493202638,
+  "notes": "First creator alpha."
+}
