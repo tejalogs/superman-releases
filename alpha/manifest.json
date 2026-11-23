@@ -1,11 +1,11 @@
 {
   "channel": "alpha",
-  "version": "0.2.0-alpha.1",
-  "min_shell_version": "0.2.0-alpha.1",
-  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.1/superman-engine-0.2.0-alpha.1.zip",
-  "sha256": "b418ba1c3800c9bce1aa50034a352d0781390840382f07ae2ce86ca67e0f0bd8",
-  "size": 2238308,
-  "released_at": "2026-11-22T17:53:13Z",
-  "notes": "First creator alpha.",
+  "version": "0.2.0-alpha.2",
+  "min_shell_version": "0.2.0-alpha.2",
+  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.2/superman-engine-0.2.0-alpha.2.zip",
+  "sha256": "dc4c2e851944f81d6339799c4ff3856b372101302951498adf60635eb558967c",
+  "size": 2242704,
+  "released_at": "2026-11-22T21:00:23Z",
+  "notes": "Replay screenshots are cleared automatically; saved pages can be removed; Studio fixes; safer Windows and app updates.",
   "shell_download_url": "https://github.com/tejalogs/superman-releases/releases"
 }

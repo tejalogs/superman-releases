@@ -1,9 +1,9 @@
 {
   "channel": "alpha",
-  "version": "0.2.0-alpha.1",
+  "version": "0.2.0-alpha.2",
   "platform": "darwin-arm64",
-  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.1/Superman-0.2.0-alpha.1-arm64-mac.zip",
-  "sha256": "3fe08540f8143929c7212a2f60d1652dba8cd22edc1476aca1702202d234b2b5",
-  "size": 493202638,
-  "notes": "First creator alpha."
+  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.2/Superman-0.2.0-alpha.2-arm64-mac.zip",
+  "sha256": "ec1e50e2f6f82b4c3bd67351beda71556ff7eddb70b1f843e9ddac42d5d8e8a4",
+  "size": 493554205,
+  "notes": "Replay screenshots are cleared automatically; saved pages can be removed; Studio fixes; safer Windows and app updates."
 }

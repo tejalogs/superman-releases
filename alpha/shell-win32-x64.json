@@ -1,9 +1,9 @@
 {
   "channel": "alpha",
-  "version": "0.2.0-alpha.1",
+  "version": "0.2.0-alpha.2",
   "platform": "win32-x64",
-  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.1/Superman-Setup-0.2.0-alpha.1-win-x64.exe",
-  "sha256": "507cd133fad37f2f108bb815dba21858b3b89f631971bcff7417c63a644555ad",
-  "size": 243514824,
-  "notes": "First creator alpha."
+  "url": "https://github.com/tejalogs/superman-releases/releases/download/v0.2.0-alpha.2/Superman-Setup-0.2.0-alpha.2-win-x64.exe",
+  "sha256": "60324239ea48e7596cdb6aff23684d1b68e1e53546f4c9ac434da06f2decd604",
+  "size": 243516063,
+  "notes": "Replay screenshots are cleared automatically; saved pages can be removed; Studio fixes; safer Windows and app updates."
 }
